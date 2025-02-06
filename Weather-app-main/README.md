@@ -1,4 +1,4 @@
-# Weather App
+# SkyWhisper
 
 The Weather App, developed on Android Studio, offers a comprehensive solution for accessing weather information on-the-go. With real-time updates, graphical representations of past trends, and customizable settings, it provides users with accurate and intuitive weather data.
 
